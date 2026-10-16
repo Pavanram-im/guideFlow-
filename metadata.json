@@ -1,0 +1,6 @@
+{
+  "name": "GuideFlow AI",
+  "description": "Any Document. Any Language. One Clear Guide. Multilingual document-to-guidance-video platform with voice narration in Indian, European, and global languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
